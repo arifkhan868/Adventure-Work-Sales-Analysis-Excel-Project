@@ -154,8 +154,8 @@ It’s a perfect demonstration of **Data Analysis, Business Insight, and Dashboa
 ---
 
 ### 🔗 **Connect With Me**
-💼 [LinkedIn Profile](https://www.linkedin.com/in/ariful-islam/)  
-🌐 [GitHub Portfolio](https://github.com/ariful-portfolio)  
+💼 [[LinkedIn Profile](https://www.linkedin.com/in/ariful-islam/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BZbPIv3P2TgGjumQ1sX3gAQ%3D%3D))  
+🌐 [[GitHub Portfolio](https://github.com/ariful-portfolio](https://github.com/arifkhan868))  
 📧 ariful.dataanalyst@gmail.com
 
 ---
