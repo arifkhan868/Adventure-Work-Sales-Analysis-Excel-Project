@@ -81,10 +81,10 @@ Built a **fully automated Excel BI dashboard** integrating:
 ### 💻 **Dashboard Preview**
 
 #### ⏱️ *Time Analysis View*
-![Time Analysis Dashboard](Dashboard1.png)
+![- <a href="https://github.com/arifkhan868/Adventure-Work-Sales-Analysis-Excel-Project/blob/main/Dashboard.PNG">Dashboard</a>)
 
 #### 🧩 *Detail Dashboard View*
-![Detail Dashboard](Dashboard2.png)
+![- <a href="https://github.com/arifkhan868/Adventure-Work-Sales-Analysis-Excel-Project/blob/main/Dashboard2.PNG">Dashboard_2</a>)
 
 ---
 
